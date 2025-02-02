@@ -1,3 +1,3 @@
 ---
-title: yitong
+title: Welcome to my website
 ---
